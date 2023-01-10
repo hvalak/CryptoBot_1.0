@@ -1,0 +1,10 @@
+numpy
+pandas
+requests
+datetime
+plotly.express
+time
+hmac
+hashlib
+urllib
+discord
